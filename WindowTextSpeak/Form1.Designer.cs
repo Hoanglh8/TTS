@@ -125,10 +125,10 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.BackColor = System.Drawing.Color.Yellow;
+            this.label3.BackColor = System.Drawing.Color.White;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.ForeColor = System.Drawing.Color.Fuchsia;
-            this.label3.Location = new System.Drawing.Point(126, 9);
+            this.label3.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label3.Location = new System.Drawing.Point(163, 9);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(358, 25);
             this.label3.TabIndex = 7;
@@ -157,7 +157,7 @@
             // 
             this.label6.AutoSize = true;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label6.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.label6.ForeColor = System.Drawing.SystemColors.ControlText;
             this.label6.Location = new System.Drawing.Point(3, 94);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(219, 20);
@@ -166,12 +166,12 @@
             // 
             // buttonRead
             // 
-            this.buttonRead.BackColor = System.Drawing.Color.White;
+            this.buttonRead.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonRead.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonRead.ForeColor = System.Drawing.SystemColors.HotTrack;
+            this.buttonRead.ForeColor = System.Drawing.SystemColors.ControlText;
             this.buttonRead.Location = new System.Drawing.Point(443, 120);
             this.buttonRead.Name = "buttonRead";
-            this.buttonRead.Size = new System.Drawing.Size(250, 24);
+            this.buttonRead.Size = new System.Drawing.Size(250, 28);
             this.buttonRead.TabIndex = 12;
             this.buttonRead.Text = "Lấy dữ liệu từ đường dẫn đã đọc";
             this.buttonRead.UseVisualStyleBackColor = false;
