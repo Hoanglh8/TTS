@@ -89,7 +89,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(199, 50);
             this.button3.TabIndex = 3;
-            this.button3.Text = "Tải dữ liệu từ một tệp văn bản";
+            this.button3.Text = "Tải file âm thanh đã chuyển đổi";
             this.button3.UseVisualStyleBackColor = false;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
@@ -169,11 +169,11 @@
             this.buttonRead.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.buttonRead.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.buttonRead.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.buttonRead.Location = new System.Drawing.Point(443, 120);
+            this.buttonRead.Location = new System.Drawing.Point(491, 120);
             this.buttonRead.Name = "buttonRead";
-            this.buttonRead.Size = new System.Drawing.Size(250, 28);
+            this.buttonRead.Size = new System.Drawing.Size(202, 41);
             this.buttonRead.TabIndex = 12;
-            this.buttonRead.Text = "Lấy dữ liệu từ đường dẫn đã đọc";
+            this.buttonRead.Text = "Lấy văn bản từ đường dẫn";
             this.buttonRead.UseVisualStyleBackColor = false;
             this.buttonRead.Click += new System.EventHandler(this.button2_Click_2);
             // 
