@@ -43,7 +43,7 @@ namespace WindowTextSpeak
                 speechSyn.SpeakAsync(text);
                 buttonPause.Enabled = true;
                 buttonStop.Enabled = true;
-                label1.Text = "Playing";
+                //label1.Text = "Playing";
             }
             else
             {
@@ -60,7 +60,7 @@ namespace WindowTextSpeak
                 buttonResume.Enabled = false;
                 buttonStop.Enabled = false;
                 richTextBox1.Text = "";
-                label1.Text = "Nghỉ";
+                //label1.Text = "Nghỉ";
             }
         }
 
@@ -81,7 +81,7 @@ namespace WindowTextSpeak
                 speechSyn.Pause();
                 buttonResume.Enabled = true;
                 buttonPause.Enabled = false;
-                label1.Text = "Paused";
+                //label1.Text = "Paused";
             }
         }
 
@@ -92,7 +92,7 @@ namespace WindowTextSpeak
                 speechSyn.Resume();
                 buttonResume.Enabled = false;
                 buttonPause.Enabled = true;
-                label1.Text = "Playing";
+                //label1.Text = "Playing";
             }
         }
 
@@ -109,7 +109,7 @@ namespace WindowTextSpeak
                 buttonResume.Enabled = false;
                 buttonStop.Enabled = false;
                 richTextBox1.Text = "";
-                label1.Text = "Nghỉ";
+                //label1.Text = "Nghỉ";
             }
             string ScrapText = "";
             try
@@ -124,13 +124,13 @@ namespace WindowTextSpeak
                     }
                 }
                 richTextBox1.Text = ScrapText;
-                MessageBox.Show("Please Click to Speak.");
+                MessageBox.Show("Hãy bấm đọc vào để nói.");
                 textBoxUrl.Text = "";
 
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Sorry there is error.");
+                MessageBox.Show("Có lỗi khi chuyển đổi.");
             }
 
            
