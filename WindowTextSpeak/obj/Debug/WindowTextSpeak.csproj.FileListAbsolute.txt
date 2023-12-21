@@ -1,0 +1,42 @@
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\bin\Debug\WindowTextSpeak.exe.config
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\bin\Debug\WindowTextSpeak.exe
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\bin\Debug\WindowTextSpeak.pdb
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\obj\Debug\WindowTextSpeak.csprojAssemblyReference.cache
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\obj\Debug\WindowTextSpeak.Form1.resources
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\obj\Debug\WindowTextSpeak.Properties.Resources.resources
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.GenerateResource.cache
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.CoreCompileInputs.cache
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\obj\Debug\WindowTextSpeak.exe
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\obj\Debug\WindowTextSpeak.pdb
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Avinash\source\repos\WindowTextSpeak\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.CopyComplete
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\bin\Debug\WindowTextSpeak.exe.config
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\bin\Debug\WindowTextSpeak.exe
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\bin\Debug\WindowTextSpeak.pdb
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\bin\Debug\HtmlAgilityPack.dll
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\bin\Debug\HtmlAgilityPack.pdb
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\bin\Debug\HtmlAgilityPack.xml
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.AssemblyReference.cache
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\obj\Debug\WindowTextSpeak.Form1.resources
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\obj\Debug\WindowTextSpeak.Properties.Resources.resources
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.GenerateResource.cache
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.CoreCompileInputs.cache
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.CopyComplete
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\obj\Debug\WindowTextSpeak.exe
+D:\textToSpeechConverter-master\textToSpeechConverter-master\WindowTextSpeak\obj\Debug\WindowTextSpeak.pdb
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\bin\Debug\WindowTextSpeak.exe.config
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\bin\Debug\WindowTextSpeak.exe
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\bin\Debug\WindowTextSpeak.pdb
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.AssemblyReference.cache
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\obj\Debug\WindowTextSpeak.Form1.resources
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\obj\Debug\WindowTextSpeak.Properties.Resources.resources
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.GenerateResource.cache
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.CoreCompileInputs.cache
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\obj\Debug\WindowTextSpeak.csproj.CopyComplete
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\obj\Debug\WindowTextSpeak.exe
+C:\Users\Dell\OneDrive - BS\Documents\GitHub\TTS\WindowTextSpeak\obj\Debug\WindowTextSpeak.pdb
